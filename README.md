@@ -7,6 +7,7 @@ Dieses Projekt implementiert einen einfachen HTTP-Server, der Anfragen auf einem
 - Startet einen HTTP-Listener auf einem freien Port (standardmäßig Port 80 oder 8080).
 - Stoppt einen laufenden Server, wenn der Listener bereits aktiv ist.
 - Verarbeitet HTTP-Anfragen und gibt benutzerdefinierte Fehlerseiten zurück.
+- Bei 404-Fehler kommt eine Fehlerseite.
 
 ## Web-Befehle
 - http://localhost:8080/server-off
