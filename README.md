@@ -8,6 +8,11 @@ Dieses Projekt implementiert einen einfachen HTTP-Server, der Anfragen auf einem
 - Stoppt einen laufenden Server, wenn der Listener bereits aktiv ist.
 - Verarbeitet HTTP-Anfragen und gibt benutzerdefinierte Fehlerseiten zurück.
 
+## Web-Befehle
+- http://localhost:8080/server-off
+- http://localhost:8080/server-info
+- http://localhost:8080/server-reboot
+
 ## Installation
 
 1. Klone das Repository:
